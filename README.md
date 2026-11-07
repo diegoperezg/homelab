@@ -49,23 +49,23 @@ El servidor se conecta a la red mediante un adaptador Wi-Fi MediaTek. A futuro m
 ## Fotos
 
 ### CPU: AMD A8-3850
-![CPU AMD A8-3850](images/cpu-amd-a8-3850.jpg)
+![CPU AMD A8-3850](images_hw/cpu-amd-a8-3850.jpg)
 
 ### Placa base: Acer, socket FM1
-![Placa base Acer socket FM1](images/placa-base.jpg)
+![Placa base Acer socket FM1](images_hw/placa-base.jpg)
 
 ### Montaje: placa base con CPU, refrigeración y RAM
 ![Placa base montada con CPU, disipador Cooler Master y memoria RAM](images/montaje-placa-cpu-ram.jpg)
 
 ### Memoria RAM: Kingston DDR3 de 4 GB
-![Módulo Kingston DDR3-1600 de 4 GB](images/ram-kingston-1600.jpg)
-![Tres módulos Kingston DDR3 de 4 GB](images/ram-kingston-1333-1600.jpg)
+![Módulo Kingston DDR3-1600 de 4 GB](images_hw/ram-kingston-1600.jpg)
+![Tres módulos Kingston DDR3 de 4 GB](images_hw/ram-kingston-1333-1600.jpg)
 
 ### GPU: Radeon HD 7470 2 GB
-![Radeon HD 7470 2 GB](images/gpu-radeon-hd7470.jpg)
+![Radeon HD 7470 2 GB](images_hw/gpu-radeon-hd7470.jpg)
 
 ### Wi-Fi: adaptador MediaTek PCIe
-![Tarjeta Wi-Fi PCIe con dos antenas](images/tarjeta-wifi.jpg)
+![Tarjeta Wi-Fi PCIe con dos antenas](images_hw/tarjeta-wifi.jpg)
 
 ## Próximos pasos
 
